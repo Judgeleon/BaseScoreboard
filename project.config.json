@@ -43,7 +43,7 @@
   "projectname": "比赛计分板",
   "isGameTourist": false,
   "simulatorType": "wechat",
-  "simulatorPluginId": "plugin/wx75642e4263365198",
+  "simulatorPluginId": "plugin/*************",
   "condition": {
     "search": {
       "current": -1,
@@ -71,4 +71,5 @@
   },
   "simulatorPluginLibVersion": {},
   "editorSetting": {}
+
 }
